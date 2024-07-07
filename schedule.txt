@@ -1,0 +1,38 @@
+\033[1m\033[4mFall Semester:\033[0m
+August 21: Fall Semester Begins
+August 21-25: Orientation Week (for new students)
+August 28: First Day of Classes
+September 4: Labor Day (No Classes)
+October 9-10: Fall Break (No Classes)
+November 22-24: Thanksgiving Break (No Classes)
+December 8: Last Day of Classes
+December 11-15: Final Exams Week
+December 16: Winter Break Begins
+
+\033[1m\033[4mWinter Intersession (Optional):\033[0m
+January 2-20: Winter Intersession Classes (Optional short-term classes)
+
+\033[1m\033[4mSpring Semester:\033[0m
+January 22: Spring Semester Begins
+March 11-15: Spring Break (No Classes)
+April 19: Good Friday (No Classes)
+May 3: Last Day of Classes
+May 6-10: Final Exams Week
+May 11: Commencement Ceremony
+May 12: Summer Break Begins
+
+\033[1m\033[4mSummer Sessions (Optional):\033[0m
+May 28-June 28: Summer Session I
+July 1-August 2: Summer Session II
+
+\033[1m\033[4mAdditional Important Dates:\033[0m
+October 2: Midterm Grades Due
+November 6: Registration Opens for Spring Semester
+March 4: Midterm Grades Due
+April 1: Registration Opens for Fall Semester
+
+\033[1m\033[4mNotes:\033[0m
+\033[1m\033[4mDrop/Add Deadlines:\033[0m Typically, there is a
+deadline to drop/add courses without penalty, usually within the first two weeks of the semester.
+\033[1m\033[4mHolidays and Breaks:\033[0m Specific dates for holidays and breaks may vary based on the institution.
+\033[1m\033[4mExam Schedules:\033[0m Final exams are usually scheduled by the registrar and announced midway through the semester.

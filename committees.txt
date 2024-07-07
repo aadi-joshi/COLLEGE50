@@ -1,0 +1,42 @@
+\033[1m1. \033[4mAcademic Affairs Committee\033[0m
+Description: Focuses on the development and review of academic policies, curriculum enhancement, and maintaining academic standards.
+Contact: For more information or to enroll, please contact the Office of Academic Affairs at academicaffairs@college50.edu.
+
+\033[1m2. \033[4mStudent Life Committee\033[0m
+Description: Enhances the overall student experience by organizing events, supporting student organizations, and addressing student concerns.
+Contact: To join, reach out to the Office of Student Life at studentlife@college50.edu.
+
+\033[1m3. \033[4mDiversity and Inclusion Committee\033[0m
+Description: Promotes a welcoming and inclusive campus environment through programs, workshops, and policy recommendations.
+Contact: Interested in joining? Contact the Office of Diversity and Inclusion at diversity@college50.edu.
+
+\033[1m4. \033[4mFacilities and Infrastructure Committee\033[0m
+Description: Oversees the planning and improvement of campus facilities and infrastructure to ensure a safe and functional environment.
+Contact: For enrollment details, contact the Facilities Management Office at facilities@college50.edu.
+
+\033[1m5. \033[4mEnvironmental Sustainability Committee\033[0m
+Description: Focuses on promoting sustainable practices and environmental awareness within the college community.
+Contact: To become a member, email the Sustainability Office at sustainability@college50.edu.
+
+\033[1m6. \033[4mHealth and Wellness Committee\033[0m
+Description: Addresses the health and wellness needs of the college community through programs, workshops, and health services.
+Contact: Join by contacting the Health Services Office at healthservices@college50.edu.
+
+\033[1m7. \033[4mTechnology and Innovation Committee\033[0m
+Description: Drives technological advancements and innovation across campus by evaluating and implementing new technologies.
+Contact: For more information or to sign up, email the IT Department at techinnovation@college50.edu.
+
+\033[1m8. \033[4mAlumni Relations Committee\033[0m
+Description: Works to strengthen the bond between the college and its alumni through events, networking opportunities, and engagement initiatives.
+Contact: To participate, reach out to the Alumni Relations Office at alumni@college50.edu.\033[1m
+
+9. \033[4mResearch and Grants Committee\033[0m
+Description: Supports faculty and student research efforts and assists with securing grants and funding opportunities.
+Contact: Interested in joining? Contact the Research Office at research@college50.edu.
+
+\033[1m10. \033[4mSafety and Security Committee\033[0m
+Description: Ensures the safety and security of the college community through policy development, safety programs, and emergency preparedness.
+Contact: For enrollment information, email the Security Office at security@college50.edu.
+
+\033[1mIf you're passionate about contributing to any of these areas and wish to be a part of a committee, please reach out to the respective contacts
+provided. Your involvement can make a significant difference in enhancing the COLLEGE50 community.\033[0m

@@ -1,0 +1,52 @@
+\033[1m\033[4mWelcome to COLLEGE50\033[0m
+Established over five decades ago, COLLEGE50 has been a beacon of academic excellence and innovation. Our legacy is built on a foundation
+of rigorous scholarship, a vibrant campus life, and a commitment to fostering intellectual growth and personal development. At COLLEGE50,
+we pride ourselves on preparing students for the challenges of tomorrow through a comprehensive and dynamic educational experience.
+
+\033[1m\033[4mOur Legacy:\033[0m
+Since its inception, COLLEGE50 has been dedicated to creating a nurturing and stimulating environment where students can thrive. Our alumni
+have gone on to make significant contributions in various fields, embodying the spirit of leadership and service that we instill in our community.
+With a rich history of academic achievements, COLLEGE50 continues to uphold its tradition of excellence, fostering a culture of inquiry and innovation.
+
+\033[1m\033[4mContact Our Faculty:\033[0m
+Our distinguished faculty members are leaders in their respective fields, committed to providing high-quality education and mentorship to our students.
+They are accessible and eager to engage with students both inside and outside the classroom. You can reach out to our faculty members via email or during
+their office hours for any academic inquiries or guidance.
+
+\033[1m\033[4mCollege and Office Hours\033[0m
+At COLLEGE50, we understand the importance of accessibility and support for our students and community. Below are the general office hours for various
+departments and administrative offices:
+
+\033[1m\033[4mAdministrative Offices:\033[0m
+Monday - Friday: 8:00 AM - 5:00 PM
+Saturday - Sunday: Closed
+
+\033[1m\033[4mAdmissions Office:\033[0m
+Monday - Friday: 8:30 AM - 4:30 PM
+Saturday - Sunday: Closed
+
+\033[1m\033[4mStudent Services:\033[0m
+Monday - Friday: 9:00 AM - 5:00 PM
+Saturday - Sunday: Closed
+
+\033[1m\033[4mLibrary:\033[0m
+Monday - Thursday: 8:00 AM - 10:00 PM
+Friday: 8:00 AM - 8:00 PM
+Saturday: 10:00 AM - 6:00 PM
+Sunday: 12:00 PM - 8:00 PM
+
+\033[1m\033[4mCafeteria:\033[0m
+Monday - Friday: 7:00 AM - 7:00 PM
+Saturday - Sunday: 8:00 AM - 2:00 PM
+
+\033[1mWe encourage students to take advantage of these resources and engage with our faculty and staff to enhance their academic journey.\033[0m
+
+\033[1m\033[4mVisit Us:\033[0m
+COLLEGE50 invites you to explore our campus, meet our faculty, and discover what makes our community special. Whether you're a prospective student,
+a returning alum, or a community member, we welcome you to experience the vibrant atmosphere and rich history that define COLLEGE50.
+
+\033[1mFor more information or to schedule a visit, please contact our Admissions Office at admissions@college50.edu or call us at (555) 123-4567.\033[0m
+
+\033[1m\033[4mConnect With Us:\033[0m
+Stay connected with COLLEGE50 through our social media channels on Facebook, Twitter, Instagram and LinkedIn, and stay updated on the latest news,
+events, and academic highlights. We look forward to welcoming you to the COLLEGE50 family!

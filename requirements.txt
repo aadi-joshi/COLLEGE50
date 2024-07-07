@@ -1,0 +1,5 @@
+colorama
+stdiomask
+pyfiglet
+tabulate
+pytest
